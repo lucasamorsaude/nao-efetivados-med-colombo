@@ -1,0 +1,6 @@
+requests
+pandas
+openpyxl
+slack_sdk
+pandas
+playwright

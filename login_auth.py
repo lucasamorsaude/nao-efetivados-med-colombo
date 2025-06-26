@@ -7,7 +7,7 @@ import os
 
 # 1. Definições da Requisição
 LOGIN_URL = 'https://amei.amorsaude.com.br/api/v1/security/login'
-REFRESH_URL = 'https://amei.amorsaude.com.br/api/v1/security/refresh-token?clinicId=932'
+REFRESH_URL = 'https://amei.amorsaude.com.br/api/v1/security/refresh-token?clinicId=704'
 
 LOGIN_PAYLOAD = {
     'email': os.getenv('AMEI_USERNAME'),

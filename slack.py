@@ -6,8 +6,8 @@ from slack_sdk.errors import SlackApiError
 # === CONFIGURAÇÕES ==========================
 
 SLACK_TOKEN = os.getenv("SLACK_API_TOKEN")  # Vem do GitHub Secrets
-SLACK_CHANNEL = ("C0926NK5V7D")  # Pode definir também como secret se quiser
-USER_ID = ("U07KPPR7SJW")  # Coloque seu ID como secret se quiser mensagens diretas
+SLACK_CHANNEL = ("C093277K7C3")  # Pode definir também como secret se quiser
+USER_ID = ("D093X8L7N64")  # Coloque seu ID como secret se quiser mensagens diretas
 PLANILHA_CAMINHO = "Relatorio_Propostas.xlsx"
 
 # Cliente Slack
